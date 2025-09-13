@@ -26,9 +26,3 @@ img/            - Görseller
 KULLANIM
 --------
 index.html dosyasını tarayıcıda açın veya web sunucusu kullanın.
-
-İLETİŞİM
---------
-Telefon: +90 542 741 51 81
-E-posta: info@imzateknikmuhendislik.com
-Adres: Ortabayır Mah. Dutluk Cad. No:15 Kat:2 Gültepe/Kağıthane/İstanbul
